@@ -1,4 +1,11 @@
-## Hello there, I'm Pierre DEFAUQUET 👋
+# Hello there, I'm Pierre DEFAUQUET 👋
+## I'm young fullstack developer 💻
+## 🙋🏼‍♂️ About me !
+Two years ago, I embarked on a career transition into a field that interests and excites me. I completed a first qualifying program in "Web and Mobile Development" that validated a BAC+2 level (French educational standard equivalent to Associate's degree) and a second qualifying program in "Application Developer Designer" that validated a BAC+3 level (equivalent to Bachelor's degree).
+I am someone who is curious and passionate about my work, with a particular interest in people and natural leadership skills. I enjoy helping and mentoring others. I know how to question myself and adapt. For me, failure is not a problem—it's part of the learning and development process.
+## Current project 👨‍💻
+Currently, I work as a freelancer and take on client projects, but I am also a trainer for Application Developer Designer programs, where I can apply my teaching skills and experience to help individuals undergoing career transitions.
+I am also working on a confidential project that will improve the daily lives of people with disabilities and their caregivers.
 
 <!--
 **Pierredft/Pierredft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
