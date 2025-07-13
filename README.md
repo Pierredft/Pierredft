@@ -45,6 +45,11 @@ I am also working on a confidential project that will improve the daily lives of
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+- **Agile Methods :** 
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+
 ## 📊 My GitHub Statistics
 1. **Basic GitHub Statistics**
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Pierredft&show_icons=true&theme=radical)
@@ -68,6 +73,8 @@ I am currently seeking opportunities in the following areas:
 **Mail :** pierredefauquet@gmail.com <br>
 **Linkedin :** [linkedin.com/in/pierre-defauquet-561668130](https://www.linkedin.com/in/pierre-defauquet-561668130) <br>
 **Portfolio :** [www.pierredefauquet.com](https://www.pierredefauquet.com)
+
+## 🙏 Thanks for coming to my GitHub
 
 
 # Bonjour, je suis Pierre DEFAUQUET 👋 🇫🇷
@@ -117,6 +124,11 @@ Je travaille également sur un projet pour l'instant secret qui permettra d'amé
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+- **Méthodes Agiles :** 
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+
 ## 📊 Mes statistiques GitHub
 1. **Statistiques GitHub de base**
 ![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=Pierredft&show_icons=true&theme=radical)
@@ -141,18 +153,4 @@ Je recherche actuellement des opportunités dans les domaines suivants :
 **Linkedin :** [linkedin.com/in/pierre-defauquet-561668130](https://www.linkedin.com/in/pierre-defauquet-561668130) <br>
 **Portfolio :** [www.pierredefauquet.com](https://www.pierredefauquet.com) <br>
 
-
-<!--
-**Pierredft/Pierredft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙏 Merci d'être venu sur mon GitHub
