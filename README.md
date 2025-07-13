@@ -57,6 +57,19 @@ I am also working on a confidential project that will improve the daily lives of
 5. **GitHub Trophies**
 ![Trophées](https://github-profile-trophy.vercel.app/?username=Pierredft&theme=radical&row=1)
 
+## What I'm looking for 🔍
+I am currently seeking opportunities in the following areas:
+
+- Developer Position: PHP Symfony Developer
+- Education: Master's Degree in DevOps (Apprenticeship)
+- Training Positions: Web and Mobile Development Trainer or Application Developer
+
+## contact me
+**Mail :** pierredefauquet@gmail.com <br>
+**Linkedin :** [linkedin.com/in/pierre-defauquet-561668130](https://www.linkedin.com/in/pierre-defauquet-561668130) <br>
+**Portfolio :** [www.pierredefauquet.com](https://www.pierredefauquet.com)
+
+
 # Bonjour, je suis Pierre DEFAUQUET 👋 🇫🇷
 
 ## Je suis un jeune développeur fullstack 💻
@@ -115,6 +128,19 @@ Je travaille également sur un projet pour l'instant secret qui permettra d'amé
 ![Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Pierredft&theme=react-dark)
 5. **Trophées GitHub**
 ![Trophées](https://github-profile-trophy.vercel.app/?username=Pierredft&theme=radical&row=1)
+
+## Ce que je cherche pour mon avenir 🔍
+Je recherche actuellement des opportunités dans les domaines suivants :
+
+- Poste de développeur : Développeur PHP Symfony
+- Formation : Master DevOps (apprentissage)
+- Postes de formation : Formateur en développement web et mobile ou Concepteur Développeur d'Application
+
+## Contactez-moi
+**Mail :** pierredefauquet@gmail.com <br>
+**Linkedin :** [linkedin.com/in/pierre-defauquet-561668130](https://www.linkedin.com/in/pierre-defauquet-561668130) <br>
+**Portfolio :** [www.pierredefauquet.com](https://www.pierredefauquet.com) <br>
+
 
 <!--
 **Pierredft/Pierredft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
