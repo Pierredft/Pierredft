@@ -6,6 +6,8 @@ I am someone who is curious and passionate about my work, with a particular inte
 ## Current project 👨‍💻
 Currently, I work as a freelancer and take on client projects, but I am also a trainer for Application Developer Designer programs, where I can apply my teaching skills and experience to help individuals undergoing career transitions.
 I am also working on a confidential project that will improve the daily lives of people with disabilities and their caregivers.
+## my technical skills 🛠️
+- Languages : 
 
 # Bonjour, je suis Pierre DEFAUQUET 👋 🇫🇷
 ## Je suis un jeune développeur fullstack 💻
